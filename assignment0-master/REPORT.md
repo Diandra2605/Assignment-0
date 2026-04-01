@@ -16,10 +16,11 @@ Perubahan yang dilakukan dari program awal:
 Program berhasil menerima inputan dari pengguna dan menampilkan output seusai dengan yang diharapkan.
 
 ### Contoh
+
 Input :
-'''
+
 Diandra
-'''
+
 Output :
+
 Hello Diandra
-'''
