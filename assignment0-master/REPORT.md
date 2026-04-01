@@ -7,10 +7,10 @@ Tugas ini berfokus pada modifikasi program dasar "Hello World" dalam bahasa C++.
 
 ## Perubahan pada Kode
 Perubahan yang dilakukan dari program awal:
-- Menambahkan library '#include<string>'
-- Menambahkan variabel 'string nama'
-- Menggunakan getline(cin, nama)' untuk menerima input nama lengkap (termasuk spasi)
-- Mengubah output menjadi 'Hello <nama>'
+- Menambahkan library `#include<string>`
+- Menambahkan variabel `string nama`
+- Menggunakan `getline(cin, nama)` untuk menerima input nama lengkap (termasuk spasi)
+- Mengubah output menjadi `Hello <nama>`
 
 ## Hasil
 Program berhasil menerima inputan dari pengguna dan menampilkan output seusai dengan yang diharapkan.
