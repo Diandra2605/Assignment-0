@@ -18,9 +18,10 @@ Program berhasil menerima inputan dari pengguna dan menampilkan output seusai de
 ### Contoh
 
 Input :
-
+```
 Diandra
-
+```
 Output :
-
+```
 Hello Diandra
+```
